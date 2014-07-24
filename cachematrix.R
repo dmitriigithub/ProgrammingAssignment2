@@ -3,7 +3,7 @@
 
 
 #This function creates a special "matrix" object that can cache its inverse.
-#it returns a list containing a function to
+#it returns a list containing functions to
 #set the value of the matrix
 #get the value of the matrix
 #set the value of the inverse matrix
